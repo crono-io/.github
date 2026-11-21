@@ -3,9 +3,7 @@
   <img src="crono-wordmark-light.svg" alt="Crono logo" width="200">
 </picture>
 
-# Crono
-
-Crono is a PostgreSQL-backed scheduler and execution control plane for infrastructure automation. Run jobs on demand, schedule them once, or set up recurring cron schedules. NATS JetStream dispatches work to scalable worker pools.
+**Crono** is a PostgreSQL-backed scheduler and execution control plane for infrastructure automation. Run jobs on demand, schedule them once, or set up recurring cron schedules. NATS JetStream dispatches work to scalable worker pools.
 
 ## Get started
 
