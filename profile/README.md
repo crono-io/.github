@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="crono-logo-dark.svg">
-  <img src="crono-logo-light.svg" alt="Crono logo" width="96">
+  <img src="crono-logo-light.svg" alt="Crono logo" width="200">
 </picture>
 
 # Crono
